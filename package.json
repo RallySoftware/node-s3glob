@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mdellanoce/node-s3glob.git"
+    "url": "git://github.com/RallySoftware/node-s3glob.git"
   },
   "keywords": [
     "s3",
@@ -17,9 +17,9 @@
   "author": "Michael Dellanoce <michael.dellanoce@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mdellanoce/node-s3glob/issues"
+    "url": "https://github.com/RallySoftware/node-s3glob/issues"
   },
-  "homepage": "https://github.com/mdellanoce/node-s3glob",
+  "homepage": "https://github.com/RallySoftware/node-s3glob",
   "devDependencies": {
     "mocha": "~1.18.2",
     "sinon": "~1.9.1",
