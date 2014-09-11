@@ -1,6 +1,6 @@
 {
   "name": "s3glob",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "File globbing for Amazon's Simple Storage Service (S3)",
   "main": "s3glob.js",
   "scripts": {
